@@ -1,0 +1,20 @@
+.NumberOne{
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+
+}
+
+#NumberTwo{
+    color: blue;
+    font-size: 36px;
+}
+
+.Cooler {
+    font-size: 24px;
+}
+
+#NumberFour {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
